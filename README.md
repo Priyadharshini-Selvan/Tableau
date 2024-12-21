@@ -4,7 +4,8 @@
 The objective is to analyze this data and provide actionable, data-driven recommendations to guide Super Store.
 
 ## Dashboard Snapshot
-![Dashboard Snapshot](dashboard.png)
+![Dashboard Snapshot](https://github.com/Priyadharshini-Selvan/Tableau/blob/main/Dashboard.png)
+
 
 ## Key Insights
 
